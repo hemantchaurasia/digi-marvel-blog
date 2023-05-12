@@ -1,5 +1,7 @@
 ## digi-marvel-blog
-digital marvel - blog site
+DigiMarvel - blog site
+
+
 
 In the project directory, you can run:
 
