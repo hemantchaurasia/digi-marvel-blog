@@ -1,7 +1,7 @@
 ## digi-marvel-blog
 DigiMarvel - blog site
 
-
+ReactJS & NodeJS
 
 In the project directory, you can run:
 
