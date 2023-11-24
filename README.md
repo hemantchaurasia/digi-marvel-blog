@@ -1,5 +1,6 @@
 ## digi-marvel-blog
 DigiMarvel - blog site
+<TODO - Move this site under organization>
 
 ReactJS & NodeJS
 
